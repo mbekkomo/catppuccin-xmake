@@ -36,8 +36,8 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. Copy/Move `themes` directory to `~/.xmake`
+1. Clone this repository locally.
+2. Copy contents in directory `themes` to `~/.xmake/themes`.
 3. Set `XMAKE_THEME` environment variable to `catppuccin_<flavor>` or run `xmake g --theme=catppuccin_<flavor>` in project directory.
 4. Enjoy!
 
